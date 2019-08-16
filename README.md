@@ -1,6 +1,9 @@
 # vue-nuxt-drag-and-drop
 
-> My groovy Nuxt.js project
+> Ejemplo hacer drag and drop en nuxt
+
+## Link tutorial
+[Youtube](https://www.youtube.com/watch?v=d2aKPJuVZHk)
 
 ## Build Setup
 
